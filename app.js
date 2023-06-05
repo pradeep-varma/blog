@@ -8,7 +8,7 @@ const _ = require("lodash");
 
 const homeStartingContent = "Welcome visitor! Thanks for stopping by.Here is something you probably want to checkout!";
 const aboutContent = "The content here will be completely crazyy!! ";
-const contactContent = "you can contact me anytime";
+const contactContent = "I'm Pradeep and you can contact me anytime";
 
 const app = express();
 
